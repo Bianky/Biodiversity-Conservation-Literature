@@ -41,8 +41,11 @@ All in all, sentiment analysis and other text mining tools not only offer an app
 
 ### References
 Bravo-Marquez, F., Mendoza, M., & Poblete, B. (2014). Meta-level sentiment models for big social data analysis. Knowledge-based systems, 69, 86-99.
+
 Hanisch, E., Johnston, R., & Longnecker, N. (2019). Cameras for conservation: wildlife photography and emotional engagement with biodiversity and nature. Human Dimensions of Wildlife, 24(3), 267-284.
+
 Pimm, S. L. (2021). What is biodiversity conservation?. Ambio, 50(5), 976-980.
+
 The IUCN Red List of Threatened Species. IUCN Red List of Threatened Species. (n.d.). https://www.iucnredlist.org/. 
 
 
